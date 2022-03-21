@@ -7,21 +7,37 @@
 ## 3. 실종 검색
 
 Request URL : https://www.safe182.go.kr/api/lcm/findChildList.do
+
 Request Parameter
+
 Y esntlId 고유아이디
+
 Y authKey 인증키
+
 Y rowSize 게시물 수(숫자만 100개까지)
+
 N page 페이지(숫자만)
+
 N writngTrgetDscds[] 대상(정상아동(18세미만) : 010<br>지적장애인 : 060<br>치매질환자 : 070 )
+
 N sexdstnDscd 성별(남자1, 여자2)
+
 N nm 이름
+
 N detailDate1 시작 발생일(2012-08-17) 10
+
 N detailDate2 종료 발생일(2012-08-18) 10
+
 N age1 시작 당시나이(숫자만) 3
+
 N age2 종료 당시나이(숫자만) 3
+
 N file2 실종아동사진(200K미만)
+
 N etcSpfeatr 신체특징 330
+
 N occrAdres 발생장소 100
+
 N xmlUseYN xml사용여부
 
 ## 4. 안전지도 정보
