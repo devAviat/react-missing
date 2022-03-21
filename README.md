@@ -13,8 +13,8 @@ Request URL : https://www.safe182.go.kr/api/lcm/amberList.do
 `Request URL` : https://www.safe182.go.kr/api/lcm/findChildList.do
 
 `Request Parameter`
-|필수|파라미터명|파라미터설명|
-|----|---------|-----------|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|----|---------|-----------|-----|----|----|
 |Y|esntlId|고유아이디|
 |Y|authKey|인증키|
 |Y|rowSize|게시물 수(숫자만 100개까지)|
