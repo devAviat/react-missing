@@ -10,9 +10,9 @@ Request URL : https://www.safe182.go.kr/api/lcm/amberList.do
 
 ## 3. 실종 검색
 
-'Request URL : https://www.safe182.go.kr/api/lcm/findChildList.do
+`Request URL` : https://www.safe182.go.kr/api/lcm/findChildList.do
 
-Request Parameter
+`Request Parameter`
 |필수|파라미터명|파라미터설명|
 |----|---------|-----------|
 |Y|esntlId|고유아이디|
