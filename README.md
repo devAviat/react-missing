@@ -15,9 +15,9 @@ Request URL : https://www.safe182.go.kr/api/lcm/amberList.do
 `Request Parameter`
 |필수|파라미터명|파라미터설명|코드값|비고|길이|
 |----|---------|-----------|-----|----|----|
-|Y|esntlId|고유아이디|
-|Y|authKey|인증키|
-|Y|rowSize|게시물 수(숫자만 100개까지)|
+|Y|esntlId|고유아이디||||
+|Y|authKey|인증키||||
+|Y|rowSize|게시물 수||숫자만 100개까지||
 |N|page|페이지(숫자만)|
 |N|writngTrgetDscds[]|대상(정상아동(18세미만) : 010, 지적장애인 : 060 ,치매질환자 : 070 )|
 |N|sexdstnDscd|성별(남자1, 여자2)|
