@@ -2,14 +2,28 @@
 
 ## 1. 실종 신고
 
+Request URL : https://www.safe182.go.kr/api/lcm/missChild.do
+
 ## 2. 실종 경보
+
+Request URL : https://www.safe182.go.kr/api/lcm/amberList.do
 
 ## 3. 실종 검색
 
-Request URL : https://www.safe182.go.kr/api/lcm/findChildList.do
+'Request URL : https://www.safe182.go.kr/api/lcm/findChildList.do
 
 Request Parameter
-
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|Y|esntlId|고유아이디||||
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
+|필수|파라미터명|파라미터설명|코드값|비고|길이|
 Y esntlId 고유아이디
 
 Y authKey 인증키
@@ -41,6 +55,8 @@ N occrAdres 발생장소 100
 N xmlUseYN xml사용여부
 
 ## 4. 안전지도 정보
+
+Request URL : https://www.safe182.go.kr/api/lcm/safeMap.do
 
 # Getting Started with Create React App
 
